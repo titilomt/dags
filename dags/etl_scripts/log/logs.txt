@@ -1,0 +1,5 @@
+[Airflow] DAG dag-pipeline-iris-v1 - Task preProcessing.encoder_dataset: Failed
+    DAG: dag-pipeline-iris-v1<br>
+    Task: preProcessing.encoder_dataset<br>
+    Failed on: 2021-05-24 22:40:56.783430
+    
