@@ -10,7 +10,7 @@ Alunos: Tiago Henrique Pereira Fonseca
 
 #### Etapas a serem desenvolvidas:
 
-- Criar uma task etl responsável pelo download do arquivo iris.txt disponível no [link](https://raw.githubusercontent.com/titilomt/data_science_puc_projects/master/iris.txt)
+- Criar uma task etl responsável pelo download do arquivo iris.txt disponível no [link](https://drive.google.com/uc?export=download&id=1rZgVuwYon_3QogTr0-v480PRpi-2l1-v)
 
 - Criar uma task pre-processamento para validar se os dados se encontram no formato correto:
     1. sepal_length range(4.3, 7.9)
