@@ -37,11 +37,12 @@ OBS2: Utilizar o MLFlow para gerenciar os modelos criados
 
 ### Conclusão
 
-Modelo pickle selecionado foi o do DecisionTree, que para nosso pequeno conjunto de dados e usando os hiperparametros ajustados, ficou com um accuracy_score maior que o gerado pelo algoritmo de random forest com seus hiperparametros diferentes.
+Modelo pickle selecionado foi o do RandomForest, que para nosso pequeno conjunto de dados e usando os hiperparametros ajustados, ficou com um accuracy_score maior que o gerado pelo algoritmo de random forest com seus hiperparametros diferentes.
 
 ---
 
 # Parte 2
 
-Arquivo deploy contém modelo .pkl a ser usado em atividade 2
+Arquivo *deployApi* contém modelo .pkl a ser usado em atividade 2
 
+Para mais informações link para documentação da segunda parte [aqui](deployApi/README.md)
