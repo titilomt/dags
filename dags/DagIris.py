@@ -62,7 +62,7 @@ with DAG(
             task_id='download_dataset',
             bash_command="""
             cd {0}/featurestore
-            curl -o iris.txt  https://raw.githubusercontent.com/titilomt/data_science_puc_projects/master/iris.txt
+            curl -L -o iris.txt  "https://drive.google.com/uc?export=download&id=1rZgVuwYon_3QogTr0-v480PRpi-2l1-v"
             """.format(pathScript)
         )
 
